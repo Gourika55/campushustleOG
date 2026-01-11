@@ -218,7 +218,7 @@ Special thanks to:
 
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE) © 2025 Anshul Saxena.
+This project is licensed under the [MIT License](./LICENSE)
 
 > Campus Hustle – Because your skills deserve a stage.
 
