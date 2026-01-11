@@ -1,13 +1,3 @@
-# 🎓 CAMPUS HUSTLE: Student Collaboration & Freelance Platform
-
-## 🎥 Live Website and Demo 
-
- *Campus Hustle Walkthrough*: (https://youtu.be/ip74hMJSUO8?si=21h3YfZ82Bn5gYXF)
- 
- *Campus Hustle website* : (https://campushustle-ai.vercel.app)
-
-
-
 ## 🌟 Vision
 
 In today’s fast-evolving academic and professional landscape, students are no longer just learners they are innovators, freelancers, creators, and future leaders. Campus Hustle envisions becoming a transformational digital ecosystem that empowers students to bridge the gap between classroom learning and real-world experience right from within their college environment.
@@ -189,31 +179,6 @@ Special thanks to:
 
   
 
-## 📬 Team Socials
-
--  Team Member 1
-   Mahira Khan
-   Email- mahirakhan24538@gmail.com
-   
-   LinkedIn: https://www.linkedin.com/in/mahira-khan-678646286/
-
- - Team Member-2
-   Anshul Saxena
-   Email- helloanshul91@gmail.com
-   
-   LinkedIn: https://www.linkedin.com/in/anshul-saxena-899771362/
-
- - Team Member-3
-   Gourika  
-   Email- budhirajagourika8@gmail.com
-   
-   LinkedIn: https://www.linkedin.com/in/gourika-b53280348/
-
--  Team Member-4 
-   Avanya
-   Email- avanyasharma299@gmail.com
-   
-   LinkedIn: https://www.linkedin.com/in/avanya-sharma-21794b310/
 
 
 ## 📜 License
