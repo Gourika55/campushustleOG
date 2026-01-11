@@ -54,14 +54,6 @@ A clean, intuitive, and mobile-friendly interface designed specifically with stu
 📜 Portfolio Builder (Coming Soon)
 Auto-generate a professional portfolio from your freelance work and projects to showcase to recruiters or on LinkedIn.
 
-
-##  Architecture diagram
-   ![Architecture Diagram](https://github.com/AnshulAlgoS/campushustle/blob/704099eebf91f593e0b383c9d67d698d48c02051/src/assets/images/architecture.png)
-
-##  Process flow diagram    
-  ![Process flow diagram](https://github.com/AnshulAlgoS/campushustle/blob/c881a58d29e6657747fdfd296882472721a191d1/src/assets/images/process-flow.png)
-  ## 🚀 Steps to Follow
-
 ### 👤 Step 1: Create an Account & Complete Your Profile
 - Visit the Campus Hustle website.  
 - Click on the **Sign Up** button in the navigation bar.  
